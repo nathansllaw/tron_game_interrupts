@@ -34,7 +34,6 @@
     #define DIR_DOWN    2
     #define DIR_LEFT    3
 
-    /* STARTER CODE BELOW. FEEL FREE TO DELETE IT AND START OVER */
 
     void drawPixel( int y, int x, pixel_t colour )
     {
@@ -498,3 +497,4 @@
 
         return 0;
     }
+
